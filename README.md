@@ -1,0 +1,1 @@
+Repositorio de código para el reto Store Sales - Time Series Forecasting de Kaggle para la materia TC3006C.
